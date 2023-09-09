@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T01:57:45.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="KFTvooRDHcmCoWsow7Tf" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T01:58:07.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="p33VQHc5y1nb9aR8N6sj" version="21.7.4" type="github">
   <diagram name="페이지-1" id="V8czD0fd6J0GJFK_vFva">
-    <mxGraphModel dx="875" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="0r8FNTHCxq8rm0fuSEPY-3" value="Interrupt Vector Table이 assemler가 아니라 C언어로 구현 되어 있음&lt;br&gt;이것이 가능한 것은 CORTEX는 Stack 설정이 H/W로 지원 되기 때문&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="490" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0r8FNTHCxq8rm0fuSEPY-4" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa;&quot;&gt;_start&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="560" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
